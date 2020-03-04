@@ -30,5 +30,6 @@ public class LuckymoneyService {
         luckymoney2.setProducer("马六");
         luckymoney2.setMoney(new BigDecimal(1314));
         repository.save(luckymoney2);
+        //just a test.
     }
 }
